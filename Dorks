@@ -51,3 +51,9 @@ site:target.com ext:php | ext:html
 site:subdomain.target.com
 site:target.com inurl:auth
 site:target.com inurl:dev
+
+
+
+
+Added by AJ:
+intitle: Responsible disclosure
